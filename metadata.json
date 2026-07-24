@@ -1,0 +1,6 @@
+{
+  "name": "CA Firm Office & Billing ERP",
+  "description": "Comprehensive desktop workspace for Chartered Accountant firms: staff attendance, client task tracking, billable timesheets, GST invoicing, and financial dashboards with role-based access control.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
